@@ -5,7 +5,7 @@
 ## 🌱 Currently Learning
 ![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tteia)](https://velog.io/@tteia) 
+<a href="https://velog.io/@tteia"><img src="https://img.shields.io/badge/tteia-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@tteia"/></a>
 
 
 
