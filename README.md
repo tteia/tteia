@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CB371,10:AFEEEE,30:87CEEB,75:00BFFF,100:AFEEEE&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFE0,10:F0F8FF,30:FFF5EE,75:87CEFA,100:F5F5F5&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <h1>KEEP LEARNING TO CODE</h1>
 
@@ -10,4 +10,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3CB371,10:00BFFF,30:87CEEB,75:AFEEEE,100:AFEEEE&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F0F8FF,10:87CEFA,30:FFF5EE,75:FFFFE0,100:F5F5F5&height=40&section=footer&text=&fontSize=0" width="100%"/>
