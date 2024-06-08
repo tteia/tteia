@@ -2,6 +2,8 @@
 
 <h1>KEEP LEARNING TO CODE</h1>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tteia)](https://solved.ac/tteia/)
+
 ## 🌱 Currently Learning
 ![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
