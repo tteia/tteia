@@ -20,3 +20,8 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F0F8FF,10:87CEFA,30:FFF5EE,75:FFFFE0,100:F5F5F5&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/tteia"/>
+</a>
