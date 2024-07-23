@@ -24,8 +24,9 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/tteia?pet-id=603471835740729381"
-    width="600"
+    src="https://render.gitanimals.org/lines/tteia?pet-id=603479010647174112"
+    width="1000"
     height="120"
   />
 </a>
+  
