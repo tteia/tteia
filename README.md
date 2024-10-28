@@ -22,5 +22,14 @@
 <a href="https://velog.io/@tteia"><img src="https://img.shields.io/badge/tteia-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@tteia"/></a>
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/tteia?pet-id=634257849544425667"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F0F8FF,10:87CEFA,30:FFF5EE,75:FFFFE0,100:F5F5F5&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
