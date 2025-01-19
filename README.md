@@ -2,8 +2,8 @@
 <div align="center">
 <h1>$\rm{KEEP\ LEARNING\ TO\ CODE}$</h1>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tteia)](https://solved.ac/tteia/) <img src="http://mazandi.herokuapp.com/api?handle=tteia&theme=warm"/>
-<br/>
+<img src="http://mazandi.herokuapp.com/api?handle=tteia&theme=warm"/>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tteia)](https://velog.io/@tteia/posts)
 
 
@@ -38,7 +38,7 @@
 <br/>
 <a href="https://velog.io/@tteia"><img src="https://img.shields.io/badge/tteia-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@tteia"/></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=tteia%27s+Github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftteia&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=tteia%27s+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 <div/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F0F8FF,10:87CEFA,30:FFF5EE,75:FFFFE0,100:F5F5F5&height=40&section=footer&text=&fontSize=0" width="100%"/>
