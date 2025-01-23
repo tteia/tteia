@@ -23,7 +23,6 @@
 ## $\bf{Projects}$
 | Project Name | Description | Duration | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
-| 🙌🏻 Hand2Hand              | 렌탈서비스 중개 플랫폼 Hand2Hand의 Server             | 2025.01 - 진행중      | [Hand2Hand Server](https://github.com/34suuuuu/highFour)                             |
 | 🥦 동상이농     | 농산물 정기 구독 & 라이브 커머스 플랫폼 동상이농의 Server      | 2024.09 - 2024.11     | [동상이농 Server](https://github.com/tteia/dongsanginong_server.git)                  |
 | 🥦 동상이농     | 농산물 정기 구독 & 라이브 커머스 플랫폼 동상이농의 Client      | 2024.09 - 2024.11     | [동상이농 Client](https://github.com/tteia/dongsanginong_client.git)                   |
 | 🛫 WANT(What A Nice Trip)                 | 개인화된 여행 플래너, 여행 일정 관리 서비스 Want의 Server              | 2024.07 - 2024.09     | [WANT Server](https://github.com/tteia/Want_backend.git)                  |
