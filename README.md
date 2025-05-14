@@ -37,6 +37,8 @@
 <br/>
 <a href="https://velog.io/@tteia"><img src="https://img.shields.io/badge/tteia-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@tteia"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tteia&exclude_repo=Dinosaur-Adventure&hide=C%23,HLSL,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 <div/>
