@@ -2,8 +2,6 @@
 <div align="center">
 <h1>$\rm{KEEP\ LEARNING\ TO\ CODE}$</h1>
 
-<img src="http://mazandi.herokuapp.com/api?handle=tteia&theme=warm"/>
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tteia)](https://velog.io/@tteia/posts)
 
 
