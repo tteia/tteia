@@ -1,7 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFE0,10:F0F8FF,30:FFF5EE,75:87CEFA,100:F5F5F5&height=200&section=header&text=Operations%20Engineer&fontSize=45&fontColor=6495ED&fontAlign=50&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFE0,10:F0F8FF,30:FFF5EE,75:87CEFA,100:F5F5F5&height=200&section=header&fontSize=45&fontColor=6495ED&fontAlign=50&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
+<h1>$\rm{Operations\ Engineer}$</h1>
+<br/>
+<br/>
 
 ## $\rm{Available\ Skills}$
 ![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
