@@ -21,6 +21,17 @@
 <br/>
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+## $\rm{Environment}$
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<br/>
+![iScheduler](https://img.shields.io/badge/iScheduler-3E8EDE?style=for-the-badge&logoColor=white)
+![iStudio](https://img.shields.io/badge/iStudio-9A30AE?style=for-the-badge&logoColor=white)
+<br/>
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+<br/>
+<a href="https://velog.io/@tteia"><img src="https://img.shields.io/badge/tteia-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@tteia"/></a>
+
 ## $\rm{Projects}$
 | Project Name | Description | Duration | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
@@ -28,15 +39,6 @@
 | 🥦 동상이농     | 농산물 정기 구독 & 라이브 커머스 플랫폼 동상이농의 Client      | 2024.09 - 2024.11     | [동상이농 Client](https://github.com/tteia/dongsanginong_client.git)                   |
 | 🛫 WANT(What A Nice Trip)                 | 개인화된 여행 플래너, 여행 일정 관리 서비스 Want의 Server              | 2024.07 - 2024.09     | [WANT Server](https://github.com/tteia/Want_backend.git)                  |
 | 🛫 WANT(What A Nice Trip)                 | 개인화된 여행 플래너, 여행 일정 관리 서비스 Want의 Client              | 2024.07 - 2024.09     | [WANT Client](https://github.com/tteia/Want_frontend.git)                   |
-
-## $\rm{Environment}$
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-<br/>
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-<br/>
-<a href="https://velog.io/@tteia"><img src="https://img.shields.io/badge/tteia-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@tteia"/></a>
 
 <br/>
 
