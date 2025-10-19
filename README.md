@@ -36,6 +36,8 @@
 
 <br/>
 
+[![rankit-badge](https://badge.rankit.run/badge?name=tteia)](https://www.rankit.run)
+
 <div/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0F8FF,10:87CEFA,30:FFF5EE,75:FFFFE0,100:F5F5F5&height=100&section=footer" width="100%"/>
 
