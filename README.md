@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3>Backend Engineer maintaining Data Infrastructure</h3>
+<h3> $\rm{Backend\ Engineer\ maintaining\ Data\ Infrastructure}$ </h3>
 <br/>
 
 ## $\rm{Available\ Skills}$
