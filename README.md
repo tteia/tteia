@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Operations+Engineer;Back-End+Developer" />
+<h3>Backend Engineer maintaing Data Infrastructure</h3>
 <br/>
 
 ## $\rm{Available\ Skills}$
@@ -11,29 +11,18 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 <br/>
-![aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white) ![azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white) ![azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
+![Hadoop](https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white) ![Superset](https://img.shields.io/badge/apachesuperset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
+
 
 ## $\rm{Environment}$
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 <br/>
-![iScheduler](https://img.shields.io/badge/iScheduler-3E8EDE?style=for-the-badge&logoColor=white)
-![iStudio](https://img.shields.io/badge/iStudio-9A30AE?style=for-the-badge&logoColor=white)
-<br/>
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-<br/>
-
-## $\rm{Projects}$
-| Project Name | Description | Duration | Repository |
-|------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
-| 🥦 동상이농     | 농산물 정기 구독 & 라이브 커머스 플랫폼 동상이농의 Server      | 2024.09 - 2024.11     | [동상이농 Server](https://github.com/tteia/dongsanginong_server.git)                  |
-| 🥦 동상이농     | 농산물 정기 구독 & 라이브 커머스 플랫폼 동상이농의 Client      | 2024.09 - 2024.11     | [동상이농 Client](https://github.com/tteia/dongsanginong_client.git)                   |
-| 🛫 WANT(What A Nice Trip)                 | 개인화된 여행 플래너, 여행 일정 관리 서비스 Want의 Server              | 2024.07 - 2024.09     | [WANT Server](https://github.com/tteia/Want_backend.git)                  |
-| 🛫 WANT(What A Nice Trip)                 | 개인화된 여행 플래너, 여행 일정 관리 서비스 Want의 Client              | 2024.07 - 2024.09     | [WANT Client](https://github.com/tteia/Want_frontend.git)                   |
-
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 <br/>
 
 [![rankit-badge](https://badge.rankit.run/badge?name=tteia)](https://www.rankit.run)
